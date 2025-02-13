@@ -48,21 +48,21 @@
   </template>
   
   <script>
-  export default {
-    data() {
-      return {
-        name: '',
-        email: '',
-        password: ''
-      };
-    },
-    methods: {
-      register() {
-        console.log("Registering", this.name, this.email, this.password);
-        // Here, you would handle registration logic (API request, etc.)
-      }
-    }
-  };
+//   export default {
+//     data() {
+//       return {
+//         name: '',
+//         email: '',
+//         password: ''
+//       };
+//     },
+//     methods: {
+//       register() {
+//         console.log("Registering", this.name, this.email, this.password);
+//         // Here, you would handle registration logic (API request, etc.)
+//       }
+//     }
+//   };
   </script>
   
   <style>
