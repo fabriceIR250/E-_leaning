@@ -31,12 +31,6 @@
   </nav>
 </template>
 
-<script>
-export default {
-  name: 'Navbar'
-};
-</script>
-
 <style scoped>
 /* You can add custom styles for the navbar if needed */
 .navbar .nav-link i {
